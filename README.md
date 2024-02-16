@@ -1,4 +1,17 @@
 # python-challenge
 
+# Background
 
-I struggled with getting my VScode to work, I had to use my jupyternotebook to be able to get the scrip! I also recieved help from ASK BCS for my code because the dependencies were not working and the csv kept on giving me undefined.
+A Python script to analyze the financial records of the company. The financial dataset called budget_data.csv.
+
+Created a Python script that analyzes the records to calculate each of the following values:
+
+* The total number of months included in the dataset
+
+* The net total amount of "Profit/Losses" over the entire period
+
+* The changes in "Profit/Losses" over the entire period, and then the average of those changes
+
+* The greatest increase in profits (date and amount) over the entire period
+
+* The greatest decrease in profits (date and amount) over the entire period
